@@ -27,7 +27,9 @@ def load_metropolitan_areas(metro='Curitiba'):
         , 'Brasília':'brasília'
         }
 
-    file = 'curitiba.json'
+    file = '../bar.json'
+
+#    r = requests.get(url, allow_redirects=True)
 #    with urllib.request.urlopen('https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/territory/json/plotly_fig/curitiba.json') as url:
 #        data = json.loads(url
 #            url.read().decode()
