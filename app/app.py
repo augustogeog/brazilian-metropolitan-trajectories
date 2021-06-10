@@ -62,5 +62,5 @@ st.markdown(
 )
 
 metro = st.selectbox(label='Metropolitan Area', options=metropolitan_areas)
-fig = load_metropolitan_areas(metro=metro)
-st.plotly_chart(fig)
+#fig = load_metropolitan_areas(metro=metro)
+#st.plotly_chart(fig)
