@@ -28,9 +28,8 @@ def load_metropolitan_areas(metro='Curitiba'):
         , 'Brasília':'brasília'
         }
 
-    file = '../bar.json'
-
-    url = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/bar.json'
+    url = f'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/territory/json/plotly_fig/{dict_metro[metro]}.json'
+    
     r = requests.get(url, allow_redirects=True)
     dict_json = r.json()
     
@@ -39,7 +38,7 @@ def load_metropolitan_areas(metro='Curitiba'):
     fig = pio.from_json(figure_structure)
 
 #    r = requests.get(url, allow_redirects=True)
-#    with urllib.request.urlopen('https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/territory/json/plotly_fig/curitiba.json') as url:
+#    with urllib.request.urlopen(') as url:
 #        data = json.loads(url
 #            url.read().decode()
 #            )
