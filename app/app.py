@@ -75,7 +75,7 @@ section =  st.sidebar.radio(label = 'Section', options=sections)
 if section == 'Territories':
     metro = st.selectbox(label='Metropolitan Area', options=metropolitan_areas)
     fig = load_metropolitan_areas(metro=metro)
-    st.plotly_chart(fig)
+    st.plotly_chart(fig, height=600, width=1400)
 else:
     st.markdown(f"<h2 style='text-align: left; color: black;'>Under Development</h2>", unsafe_allow_html=True)
 
