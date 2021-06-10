@@ -1,5 +1,7 @@
 import streamlit as st
 import plotly.io as pio
+import urllib.request
+import json 
 
 
 @st.cache(suppress_st_warning=True)
@@ -25,7 +27,14 @@ def load_metropolitan_areas(metro='Curitiba'):
         , 'Brasília':'brasília'
         }
 
-    fig = pio.read_json(f'../data/territory/json/plotly_fig/{dict_metro[metro]}.json')
+    file = '../data/territory/json/plotly_fig/curitiba.json'
+#    with urllib.request.urlopen('https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/territory/json/plotly_fig/curitiba.json') as url:
+#        data = json.loads(url
+#            url.read().decode()
+#            )
+    
+    fig = pio.read_json(file)
+
 
     return fig
 
