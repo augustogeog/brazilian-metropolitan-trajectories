@@ -37,16 +37,23 @@ def load_metropolitan_areas(metro='Curitiba'):
     
     fig = pio.from_json(figure_structure)
 
-#    r = requests.get(url, allow_redirects=True)
-#    with urllib.request.urlopen(') as url:
-#        data = json.loads(url
-#            url.read().decode()
-#            )
     
-#    fig = pio.read_json(file)
-
-
     return fig
+
+@st.cache(suppress_st_warning=True)
+def load_plotly_fig(url):
+    """
+    Loads Plotly Figures saved as json in a given url
+
+    """    
+    r = requests.get(url, allow_redirects=True)
+    dict_json = r.json()
+    figure_structure = json.dumps(dict_json)
+    fig = pio.from_json(figure_structure)
+
+    
+    return fig
+
 
 
 metropolitan_areas = (
@@ -69,13 +76,22 @@ metropolitan_areas = (
 
 st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic Trajectories</h1>", unsafe_allow_html=True)
 
-sections = ('Territories', 'Income', 'GDP', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel')
+sections = ('Territories','GDP','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel')
 section =  st.sidebar.radio(label = 'Section', options=sections)
 
 if section == 'Territories':
     metro = st.selectbox(label='Metropolitan Area', options=metropolitan_areas)
     fig = load_metropolitan_areas(metro=metro)
     st.plotly_chart(fig, height=600, width=1400)
+elif section == 'GDP':
+    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_02_18_dynamic.json'
+    fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+    st.plotly_chart(
+        fig_bar_gdp
+#        , height=600
+#        , width=1400
+        )
+
 else:
     st.markdown(f"<h2 style='text-align: left; color: black;'>Under Development</h2>", unsafe_allow_html=True)
 
