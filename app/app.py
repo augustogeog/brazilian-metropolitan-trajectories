@@ -84,7 +84,7 @@ if section == 'Territories':
     fig = load_metropolitan_areas(metro=metro)
     st.plotly_chart(fig, height=600, width=1400)
 elif section == 'GDP':
-    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_02_18_dynamic.json'
+    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_70_18_dynamic.json'
     fig_bar_gdp = load_plotly_fig(json_bar_gdp)
     st.plotly_chart(
         fig_bar_gdp
