@@ -40,7 +40,7 @@ def load_metropolitan_areas(metro='Curitiba'):
     
     return fig
 
-@st.cache(suppress_st_warning=True)
+#@st.cache(suppress_st_warning=True)
 def load_plotly_fig(url):
     """
     Loads Plotly Figures saved as json in a given url
