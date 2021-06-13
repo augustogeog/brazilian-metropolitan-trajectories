@@ -76,7 +76,7 @@ metropolitan_areas = (
 
 st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic Trajectories</h1>", unsafe_allow_html=True)
 
-sections = ('Territories','GDP','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel')
+sections = ('Territories','Population','GDP','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel')
 section =  st.sidebar.radio(label = 'Section', options=sections)
 
 if section == 'Territories':
@@ -88,10 +88,17 @@ elif section == 'GDP':
     fig_bar_gdp = load_plotly_fig(json_bar_gdp)
     st.plotly_chart(
         fig_bar_gdp
-#        , height=600
-#        , width=1400
+        )
+elif section == 'Population':
+    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_1970_2010_dynamic.json'
+    fig_bar_pop = load_plotly_fig(json_bar_gdp)
+    st.plotly_chart(
+        fig_bar_pop
         )
 
 else:
     st.markdown(f"<h2 style='text-align: left; color: black;'>Under Development</h2>", unsafe_allow_html=True)
+
+import plotly.express as px
+
 
