@@ -95,7 +95,7 @@ elif section == 'Population':
     if plot_type == 'Dynamic Bar':
         json_bar_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_70_18_dynamic.json'
         fig_bar_pop = load_plotly_fig(json_bar_pop)
-        st.plotly_chart(fig_bar_popg, height=300, width=600)
+        st.plotly_chart(fig_bar_popg, height=300, width=700)
     else:
         json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/line_pop_70_18.json' 
         fig_line_pop = load_plotly_fig(json_line_pop)
