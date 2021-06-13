@@ -90,7 +90,7 @@ elif section == 'GDP':
         fig_bar_gdp = load_plotly_fig(json_bar_gdp)
         st.plotly_chart(fig_bar_gdp)
     else:
-        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_2002_2018_dynamic.json'
+        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_02_18_dynamic.json'
         fig_bar_gdp = load_plotly_fig(json_bar_gdp)
         st.plotly_chart(fig_bar_gdp)
 
