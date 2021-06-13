@@ -86,27 +86,29 @@ if section == 'Territories':
 elif section == 'GDP':
     plot_type =  st.sidebar.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
     
+    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_dynamic.json'
+    fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+    st.plotly_chart(
+        fig_bar_gdp
+        )
+elif section == 'Population':
     if plot_type == 'Dynamic Bar':
-    
-        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_dynamic.json'
-        fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+        json_bar_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_70_18_dynamic.json'
+        fig_bar_pop = load_plotly_fig(json_bar_pop)
         st.plotly_chart(
-            fig_bar_gdp
+            fig_bar_pop
             )
     else:
-        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_line_pop_70_18.json'
-        fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+
+        json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/gdp/px_line_pop_70_18.json' 
+        fig_line_gdp = load_plotly_fig(json_line_pop)
         st.plotly_chart(
             fig_bar_gdp
             )
 
 
-elif section == 'Population':
-    json_bar_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_70_18_dynamic.json'
-    fig_bar_pop = load_plotly_fig(json_bar_pop)
-    st.plotly_chart(
-        fig_bar_pop
-        )
+
+
 
 else:
     st.markdown(f"<h2 style='text-align: left; color: black;'>Under Development</h2>", unsafe_allow_html=True)
