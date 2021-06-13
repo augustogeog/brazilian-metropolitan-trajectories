@@ -90,7 +90,7 @@ elif section == 'GDP':
         fig_bar_gdp
         )
 elif section == 'Population':
-    plot_type =  st.sidebar.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
+    plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
 
     if plot_type == 'Dynamic Bar':
         json_bar_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_70_18_dynamic.json'
