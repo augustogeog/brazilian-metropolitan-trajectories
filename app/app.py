@@ -83,12 +83,17 @@ if section == 'Territories':
     metro = st.selectbox(label='Metropolitan Area', options=metropolitan_areas)
     fig = load_metropolitan_areas(metro=metro)
     st.plotly_chart(fig, height=600, width=1400)
-elif section == 'GDP':    
-    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_dynamic.json'
-    fig_bar_gdp = load_plotly_fig(json_bar_gdp)
-    st.plotly_chart(
-        fig_bar_gdp
-        )
+elif section == 'GDP':
+    data_type =  st.radio(label = 'Data', options=['GDP', 'GDP per capita'])
+    if data_type == 'GDP':    
+        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_dynamic.json'
+        fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+        st.plotly_chart(fig_bar_gdp)
+    else:
+        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_2002_2018_dynamic.json'
+        fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+        st.plotly_chart(fig_bar_gdp)
+
 elif section == 'Population':
     plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
 
@@ -99,7 +104,10 @@ elif section == 'Population':
     else:
         json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/line_pop_70_18.json' 
         fig_line_pop = load_plotly_fig(json_line_pop)
-        st.plotly_chart(fig_line_pop,use_container_width=True, height=300, width=600)
+        st.plotly_chart(fig_line_pop,use_container_width=True
+        , height=300
+        , width=600
+        )
 
 
 else:
