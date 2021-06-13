@@ -1,4 +1,4 @@
-﻿Cod Município;Território
+﻿Cod;Territory
 1100015;Demais Municípios de Rondônia
 1100023;Demais Municípios de Rondônia
 1100031;Demais Municípios de Rondônia
@@ -110,7 +110,7 @@
 1302405;Demais Municípios do Amazonas
 1302504;Demais Municípios do Amazonas
 1302553;Demais Municípios do Amazonas
-1302603;AP de Manaus/AM
+1302603;Manaus
 1302702;Demais Municípios do Amazonas
 1302801;Demais Municípios do Amazonas
 1302900;Demais Municípios do Amazonas
@@ -159,7 +159,7 @@
 1500503;Demais Municípios do Pará
 1500602;Demais Municípios do Pará
 1500701;Demais Municípios do Pará
-1500800;AP de Belém/PA
+1500800;Belém
 1500859;Demais Municípios do Pará
 1500909;Demais Municípios do Pará
 1500958;Demais Municípios do Pará
@@ -168,9 +168,9 @@
 1501204;Demais Municípios do Pará
 1501253;Demais Municípios do Pará
 1501303;Demais Municípios do Pará
-1501402;AP de Belém/PA
+1501402;Belém
 1501451;Demais Municípios do Pará
-1501501;AP de Belém/PA
+1501501;Belém
 1501576;Demais Municípios do Pará
 1501600;Demais Municípios do Pará
 1501709;Demais Municípios do Pará
@@ -218,7 +218,7 @@
 1504208;Demais Municípios do Pará
 1504307;Demais Municípios do Pará
 1504406;Demais Municípios do Pará
-1504422;AP de Belém/PA
+1504422;Belém
 1504455;Demais Municípios do Pará
 1504505;Demais Municípios do Pará
 1504604;Demais Municípios do Pará
@@ -901,7 +901,7 @@
 2300754;Demais Municípios do Ceará
 2300804;Demais Municípios do Ceará
 2300903;Demais Municípios do Ceará
-2301000;AP de Fortaleza/CE
+2301000;Fortaleza
 2301109;Demais Municípios do Ceará
 2301208;Demais Municípios do Ceará
 2301257;Demais Municípios do Ceará
@@ -933,7 +933,7 @@
 2303501;Demais Municípios do Ceará
 2303600;Demais Municípios do Ceará
 2303659;Demais Municípios do Ceará
-2303709;AP de Fortaleza/CE
+2303709;Fortaleza
 2303808;Demais Municípios do Ceará
 2303907;Demais Municípios do Ceará
 2303931;Demais Municípios do Ceará
@@ -945,10 +945,10 @@
 2304251;Demais Municípios do Ceará
 2304269;Demais Municípios do Ceará
 2304277;Demais Municípios do Ceará
-2304285;AP de Fortaleza/CE
+2304285;Fortaleza
 2304301;Demais Municípios do Ceará
 2304350;Demais Municípios do Ceará
-2304400;AP de Fortaleza/CE
+2304400;Fortaleza
 2304459;Demais Municípios do Ceará
 2304509;Demais Municípios do Ceará
 2304608;Demais Municípios do Ceará
@@ -975,7 +975,7 @@
 2306009;Demais Municípios do Ceará
 2306108;Demais Municípios do Ceará
 2306207;Demais Municípios do Ceará
-2306256;AP de Fortaleza/CE
+2306256;Fortaleza
 2306306;Demais Municípios do Ceará
 2306405;Demais Municípios do Ceará
 2306504;Demais Municípios do Ceará
@@ -993,8 +993,8 @@
 2307502;Demais Municípios do Ceará
 2307601;Demais Municípios do Ceará
 2307635;Demais Municípios do Ceará
-2307650;AP de Fortaleza/CE
-2307700;AP de Fortaleza/CE
+2307650;Fortaleza
+2307700;Fortaleza
 2307809;Demais Municípios do Ceará
 2307908;Demais Municípios do Ceará
 2308005;Demais Municípios do Ceará
@@ -1017,7 +1017,7 @@
 2309458;Demais Municípios do Ceará
 2309508;Demais Municípios do Ceará
 2309607;Demais Municípios do Ceará
-2309706;AP de Fortaleza/CE
+2309706;Fortaleza
 2309805;Demais Municípios do Ceará
 2309904;Demais Municípios do Ceará
 2310001;Demais Municípios do Ceará
@@ -1464,7 +1464,7 @@
 2517100;Demais Municípios da Paraíba
 2517209;Demais Municípios da Paraíba
 2517407;Demais Municípios da Paraíba
-2600054;AP de Recife/PE
+2600054;Recife
 2600104;Demais Municípios de Pernambuco
 2600203;Demais Municípios de Pernambuco
 2600302;Demais Municípios de Pernambuco
@@ -1475,7 +1475,7 @@
 2600807;Demais Municípios de Pernambuco
 2600906;Demais Municípios de Pernambuco
 2601003;Demais Municípios de Pernambuco
-2601052;AP de Recife/PE
+2601052;Recife
 2601102;Demais Municípios de Pernambuco
 2601201;Demais Municípios de Pernambuco
 2601300;Demais Municípios de Pernambuco
@@ -1494,13 +1494,13 @@
 2602605;Demais Municípios de Pernambuco
 2602704;Demais Municípios de Pernambuco
 2602803;Demais Municípios de Pernambuco
-2602902;AP de Recife/PE
+2602902;Recife
 2603009;Demais Municípios de Pernambuco
 2603108;Demais Municípios de Pernambuco
 2603207;Demais Municípios de Pernambuco
 2603306;Demais Municípios de Pernambuco
 2603405;Demais Municípios de Pernambuco
-2603454;AP de Recife/PE
+2603454;Recife
 2603504;Demais Municípios de Pernambuco
 2603603;Demais Municípios de Pernambuco
 2603702;Demais Municípios de Pernambuco
@@ -1538,20 +1538,20 @@
 2606507;Demais Municípios de Pernambuco
 2606606;Demais Municípios de Pernambuco
 2606705;Demais Municípios de Pernambuco
-2606804;AP de Recife/PE
+2606804;Recife
 2606903;Demais Municípios de Pernambuco
 2607000;Demais Municípios de Pernambuco
 2607109;Demais Municípios de Pernambuco
-2607208;AP de Recife/PE
+2607208;Recife
 2607307;Demais Municípios de Pernambuco
 2607406;Demais Municípios de Pernambuco
 2607505;Demais Municípios de Pernambuco
-2607604;AP de Recife/PE
+2607604;Recife
 2607653;Demais Municípios de Pernambuco
 2607703;Demais Municípios de Pernambuco
-2607752;AP de Recife/PE
+2607752;Recife
 2607802;Demais Municípios de Pernambuco
-2607901;AP de Recife/PE
+2607901;Recife
 2607950;Demais Municípios de Pernambuco
 2608008;Demais Municípios de Pernambuco
 2608057;Demais Municípios de Pernambuco
@@ -1572,9 +1572,9 @@
 2609154;Demais Municípios de Pernambuco
 2609204;Demais Municípios de Pernambuco
 2609303;Demais Municípios de Pernambuco
-2609402;AP de Recife/PE
+2609402;Recife
 2609501;Demais Municípios de Pernambuco
-2609600;AP de Recife/PE
+2609600;Recife
 2609709;Demais Municípios de Pernambuco
 2609808;Demais Municípios de Pernambuco
 2609907;Demais Municípios de Pernambuco
@@ -1584,8 +1584,8 @@
 2610301;Demais Municípios de Pernambuco
 2610400;Demais Municípios de Pernambuco
 2610509;Demais Municípios de Pernambuco
-2610608;AP de Recife/PE
-2610707;AP de Recife/PE
+2610608;Recife
+2610707;Recife
 2610806;Demais Municípios de Pernambuco
 2610905;Demais Municípios de Pernambuco
 2611002;Demais Municípios de Pernambuco
@@ -1595,7 +1595,7 @@
 2611408;Demais Municípios de Pernambuco
 2611507;Demais Municípios de Pernambuco
 2611533;Demais Municípios de Pernambuco
-2611606;AP de Recife/PE
+2611606;Recife
 2611705;Demais Municípios de Pernambuco
 2611804;Demais Municípios de Pernambuco
 2611903;Demais Municípios de Pernambuco
@@ -1619,7 +1619,7 @@
 2613404;Demais Municípios de Pernambuco
 2613503;Demais Municípios de Pernambuco
 2613602;Demais Municípios de Pernambuco
-2613701;AP de Recife/PE
+2613701;Recife
 2613800;Demais Municípios de Pernambuco
 2613909;Demais Municípios de Pernambuco
 2614006;Demais Municípios de Pernambuco
@@ -1896,7 +1896,7 @@
 2905404;Demais Municípios da Bahia
 2905503;Demais Municípios da Bahia
 2905602;Demais Municípios da Bahia
-2905701;AP de Salvador/BA
+2905701;Salvador
 2905800;Demais Municípios da Bahia
 2905909;Demais Municípios da Bahia
 2906006;Demais Municípios da Bahia
@@ -1904,7 +1904,7 @@
 2906204;Demais Municípios da Bahia
 2906303;Demais Municípios da Bahia
 2906402;Demais Municípios da Bahia
-2906501;AP de Salvador/BA
+2906501;Salvador
 2906600;Demais Municípios da Bahia
 2906709;Demais Municípios da Bahia
 2906808;Demais Municípios da Bahia
@@ -1945,7 +1945,7 @@
 2909802;Demais Municípios da Bahia
 2909901;Demais Municípios da Bahia
 2910008;Demais Municípios da Bahia
-2910057;AP de Salvador/BA
+2910057;Salvador
 2910107;Demais Municípios da Bahia
 2910206;Demais Municípios da Bahia
 2910305;Demais Municípios da Bahia
@@ -2056,7 +2056,7 @@
 2919058;Demais Municípios da Bahia
 2919108;Demais Municípios da Bahia
 2919157;Demais Municípios da Bahia
-2919207;AP de Salvador/BA
+2919207;Salvador
 2919306;Demais Municípios da Bahia
 2919405;Demais Municípios da Bahia
 2919504;Demais Municípios da Bahia
@@ -2065,7 +2065,7 @@
 2919702;Demais Municípios da Bahia
 2919801;Demais Municípios da Bahia
 2919900;Demais Municípios da Bahia
-2919926;AP de Salvador/BA
+2919926;Salvador
 2919959;Demais Municípios da Bahia
 2920007;Demais Municípios da Bahia
 2920106;Demais Municípios da Bahia
@@ -2078,7 +2078,7 @@
 2920700;Demais Municípios da Bahia
 2920809;Demais Municípios da Bahia
 2920908;Demais Municípios da Bahia
-2921005;AP de Salvador/BA
+2921005;Salvador
 2921054;Demais Municípios da Bahia
 2921104;Demais Municípios da Bahia
 2921203;Demais Municípios da Bahia
@@ -2161,7 +2161,7 @@
 2927101;Demais Municípios da Bahia
 2927200;Demais Municípios da Bahia
 2927309;Demais Municípios da Bahia
-2927408;AP de Salvador/BA
+2927408;Salvador
 2927507;Demais Municípios da Bahia
 2927606;Demais Municípios da Bahia
 2927705;Demais Municípios da Bahia
@@ -2182,13 +2182,13 @@
 2929008;Demais Municípios da Bahia
 2929057;Demais Municípios da Bahia
 2929107;Demais Municípios da Bahia
-2929206;AP de Salvador/BA
+2929206;Salvador
 2929255;Demais Municípios da Bahia
 2929305;Demais Municípios da Bahia
 2929354;Demais Municípios da Bahia
 2929370;Demais Municípios da Bahia
 2929404;Demais Municípios da Bahia
-2929503;AP de Salvador/BA
+2929503;Salvador
 2929602;Demais Municípios da Bahia
 2929701;Demais Municípios da Bahia
 2929750;Demais Municípios da Bahia
@@ -2202,7 +2202,7 @@
 2930402;Demais Municípios da Bahia
 2930501;Demais Municípios da Bahia
 2930600;Demais Municípios da Bahia
-2930709;AP de Salvador/BA
+2930709;Salvador
 2930758;Demais Municípios da Bahia
 2930766;Demais Municípios da Bahia
 2930774;Demais Municípios da Bahia
@@ -2308,13 +2308,13 @@
 3105905;Demais Municípios de Minas Gerais
 3106002;Demais Municípios de Minas Gerais
 3106101;Demais Municípios de Minas Gerais
-3106200;AP de Belo Horizonte/MG
+3106200;Belo Horizonte
 3106309;Demais Municípios de Minas Gerais
 3106408;Demais Municípios de Minas Gerais
 3106507;Demais Municípios de Minas Gerais
 3106606;Demais Municípios de Minas Gerais
 3106655;Demais Municípios de Minas Gerais
-3106705;AP de Belo Horizonte/MG
+3106705;Belo Horizonte
 3106804;Demais Municípios de Minas Gerais
 3106903;Demais Municípios de Minas Gerais
 3107000;Demais Municípios de Minas Gerais
@@ -2339,7 +2339,7 @@
 3108701;Demais Municípios de Minas Gerais
 3108800;Demais Municípios de Minas Gerais
 3108909;Demais Municípios de Minas Gerais
-3109006;AP de Belo Horizonte/MG
+3109006;Belo Horizonte
 3109105;Demais Municípios de Minas Gerais
 3109204;Demais Municípios de Minas Gerais
 3109253;Demais Municípios de Minas Gerais
@@ -2351,7 +2351,7 @@
 3109709;Demais Municípios de Minas Gerais
 3109808;Demais Municípios de Minas Gerais
 3109907;Demais Municípios de Minas Gerais
-3110004;AP de Belo Horizonte/MG
+3110004;Belo Horizonte
 3110103;Demais Municípios de Minas Gerais
 3110202;Demais Municípios de Minas Gerais
 3110301;Demais Municípios de Minas Gerais
@@ -2439,7 +2439,7 @@
 3117702;Demais Municípios de Minas Gerais
 3117801;Demais Municípios de Minas Gerais
 3117836;Demais Municípios de Minas Gerais
-3117876;AP de Belo Horizonte/MG
+3117876;Belo Horizonte
 3117900;Demais Municípios de Minas Gerais
 3118007;Demais Municípios de Minas Gerais
 3118106;Demais Municípios de Minas Gerais
@@ -2447,7 +2447,7 @@
 3118304;Demais Municípios de Minas Gerais
 3118403;Demais Municípios de Minas Gerais
 3118502;Demais Municípios de Minas Gerais
-3118601;AP de Belo Horizonte/MG
+3118601;Belo Horizonte
 3118700;Demais Municípios de Minas Gerais
 3118809;Demais Municípios de Minas Gerais
 3118908;Demais Municípios de Minas Gerais
@@ -2512,7 +2512,7 @@
 3123858;Demais Municípios de Minas Gerais
 3123908;Demais Municípios de Minas Gerais
 3124005;Demais Municípios de Minas Gerais
-3124104;AP de Belo Horizonte/MG
+3124104;Belo Horizonte
 3124203;Demais Municípios de Minas Gerais
 3124302;Demais Municípios de Minas Gerais
 3124401;Demais Municípios de Minas Gerais
@@ -2580,11 +2580,11 @@
 3129608;Demais Municípios de Minas Gerais
 3129657;Demais Municípios de Minas Gerais
 3129707;Demais Municípios de Minas Gerais
-3129806;AP de Belo Horizonte/MG
+3129806;Belo Horizonte
 3129905;Demais Municípios de Minas Gerais
 3130002;Demais Municípios de Minas Gerais
 3130051;Demais Municípios de Minas Gerais
-3130101;AP de Belo Horizonte/MG
+3130101;Belo Horizonte
 3130200;Demais Municípios de Minas Gerais
 3130309;Demais Municípios de Minas Gerais
 3130408;Demais Municípios de Minas Gerais
@@ -2661,7 +2661,7 @@
 3136553;Demais Municípios de Minas Gerais
 3136579;Demais Municípios de Minas Gerais
 3136603;Demais Municípios de Minas Gerais
-3136652;AP de Belo Horizonte/MG
+3136652;Belo Horizonte
 3136702;Demais Municípios de Minas Gerais
 3136801;Demais Municípios de Minas Gerais
 3136900;Demais Municípios de Minas Gerais
@@ -2673,7 +2673,7 @@
 3137403;Demais Municípios de Minas Gerais
 3137502;Demais Municípios de Minas Gerais
 3137536;Demais Municípios de Minas Gerais
-3137601;AP de Belo Horizonte/MG
+3137601;Belo Horizonte
 3137700;Demais Municípios de Minas Gerais
 3137809;Demais Municípios de Minas Gerais
 3137908;Demais Municípios de Minas Gerais
@@ -2705,7 +2705,7 @@
 3139904;Demais Municípios de Minas Gerais
 3140001;Demais Municípios de Minas Gerais
 3140100;Demais Municípios de Minas Gerais
-3140159;AP de Belo Horizonte/MG
+3140159;Belo Horizonte
 3140209;Demais Municípios de Minas Gerais
 3140308;Demais Municípios de Minas Gerais
 3140407;Demais Municípios de Minas Gerais
@@ -2762,7 +2762,7 @@
 3144656;Demais Municípios de Minas Gerais
 3144672;Demais Municípios de Minas Gerais
 3144706;Demais Municípios de Minas Gerais
-3144805;AP de Belo Horizonte/MG
+3144805;Belo Horizonte
 3144904;Demais Municípios de Minas Gerais
 3145000;Demais Municípios de Minas Gerais
 3145059;Demais Municípios de Minas Gerais
@@ -2818,7 +2818,7 @@
 3149101;Demais Municípios de Minas Gerais
 3149150;Demais Municípios de Minas Gerais
 3149200;Demais Municípios de Minas Gerais
-3149309;AP de Belo Horizonte/MG
+3149309;Belo Horizonte
 3149408;Demais Municípios de Minas Gerais
 3149507;Demais Municípios de Minas Gerais
 3149606;Demais Municípios de Minas Gerais
@@ -2870,7 +2870,7 @@
 3153608;Demais Municípios de Minas Gerais
 3153707;Demais Municípios de Minas Gerais
 3153806;Demais Municípios de Minas Gerais
-3153905;AP de Belo Horizonte/MG
+3153905;Belo Horizonte
 3154002;Demais Municípios de Minas Gerais
 3154101;Demais Municípios de Minas Gerais
 3154150;Demais Municípios de Minas Gerais
@@ -2879,9 +2879,9 @@
 3154408;Demais Municípios de Minas Gerais
 3154457;Demais Municípios de Minas Gerais
 3154507;Demais Municípios de Minas Gerais
-3154606;AP de Belo Horizonte/MG
+3154606;Belo Horizonte
 3154705;Demais Municípios de Minas Gerais
-3154804;AP de Belo Horizonte/MG
+3154804;Belo Horizonte
 3154903;Demais Municípios de Minas Gerais
 3155009;Demais Municípios de Minas Gerais
 3155108;Demais Municípios de Minas Gerais
@@ -2901,7 +2901,7 @@
 3156452;Demais Municípios de Minas Gerais
 3156502;Demais Municípios de Minas Gerais
 3156601;Demais Municípios de Minas Gerais
-3156700;AP de Belo Horizonte/MG
+3156700;Belo Horizonte
 3156809;Demais Municípios de Minas Gerais
 3156908;Demais Municípios de Minas Gerais
 3157005;Demais Municípios de Minas Gerais
@@ -2917,7 +2917,7 @@
 3157609;Demais Municípios de Minas Gerais
 3157658;Demais Municípios de Minas Gerais
 3157708;Demais Municípios de Minas Gerais
-3157807;AP de Belo Horizonte/MG
+3157807;Belo Horizonte
 3157906;Demais Municípios de Minas Gerais
 3158003;Demais Municípios de Minas Gerais
 3158102;Demais Municípios de Minas Gerais
@@ -2980,9 +2980,9 @@
 3162708;Demais Municípios de Minas Gerais
 3162807;Demais Municípios de Minas Gerais
 3162906;Demais Municípios de Minas Gerais
-3162922;AP de Belo Horizonte/MG
+3162922;Belo Horizonte
 3162948;Demais Municípios de Minas Gerais
-3162955;AP de Belo Horizonte/MG
+3162955;Belo Horizonte
 3163003;Demais Municípios de Minas Gerais
 3163102;Demais Municípios de Minas Gerais
 3163201;Demais Municípios de Minas Gerais
@@ -3011,7 +3011,7 @@
 3165305;Demais Municípios de Minas Gerais
 3165404;Demais Municípios de Minas Gerais
 3165503;Demais Municípios de Minas Gerais
-3165537;AP de Belo Horizonte/MG
+3165537;Belo Horizonte
 3165552;Demais Municípios de Minas Gerais
 3165560;Demais Municípios de Minas Gerais
 3165578;Demais Municípios de Minas Gerais
@@ -3085,7 +3085,7 @@
 3171071;Demais Municípios de Minas Gerais
 3171105;Demais Municípios de Minas Gerais
 3171154;Demais Municípios de Minas Gerais
-3171204;AP de Belo Horizonte/MG
+3171204;Belo Horizonte
 3171303;Demais Municípios de Minas Gerais
 3171402;Demais Municípios de Minas Gerais
 3171501;Demais Municípios de Minas Gerais
@@ -3112,7 +3112,7 @@
 3201100;Demais Municípios do Espírito Santo
 3201159;Demais Municípios do Espírito Santo
 3201209;Demais Municípios do Espírito Santo
-3201308;AP de Vitória/ES
+3201308;Vitória
 3201407;Demais Municípios do Espírito Santo
 3201506;Demais Municípios do Espírito Santo
 3201605;Demais Municípios do Espírito Santo
@@ -3121,7 +3121,7 @@
 3201902;Demais Municípios do Espírito Santo
 3202009;Demais Municípios do Espírito Santo
 3202108;Demais Municípios do Espírito Santo
-3202207;AP de Vitória/ES
+3202207;Vitória
 3202256;Demais Municípios do Espírito Santo
 3202306;Demais Municípios do Espírito Santo
 3202405;Demais Municípios do Espírito Santo
@@ -3165,15 +3165,15 @@
 3204807;Demais Municípios do Espírito Santo
 3204906;Demais Municípios do Espírito Santo
 3204955;Demais Municípios do Espírito Santo
-3205002;AP de Vitória/ES
+3205002;Vitória
 3205010;Demais Municípios do Espírito Santo
 3205036;Demais Municípios do Espírito Santo
 3205069;Demais Municípios do Espírito Santo
-3205101;AP de Vitória/ES
+3205101;Vitória
 3205150;Demais Municípios do Espírito Santo
 3205176;Demais Municípios do Espírito Santo
-3205200;AP de Vitória/ES
-3205309;AP de Vitória/ES
+3205200;Vitória
+3205309;Vitória
 3300100;Demais Municípios do Rio de Janeiro
 3300159;Demais Municípios do Rio de Janeiro
 3300209;Demais Municípios do Rio de Janeiro
@@ -3182,7 +3182,7 @@
 3300258;Demais Municípios do Rio de Janeiro
 3300308;Demais Municípios do Rio de Janeiro
 3300407;Demais Municípios do Rio de Janeiro
-3300456;AP de Rio de Janeiro/RJ
+3300456;Rio de Janeiro
 3300506;Demais Municípios do Rio de Janeiro
 3300605;Demais Municípios do Rio de Janeiro
 3300704;Demais Municípios do Rio de Janeiro
@@ -3198,33 +3198,33 @@
 3301405;Demais Municípios do Rio de Janeiro
 3301504;Demais Municípios do Rio de Janeiro
 3301603;Demais Municípios do Rio de Janeiro
-3301702;AP de Rio de Janeiro/RJ
+3301702;Rio de Janeiro
 3301801;Demais Municípios do Rio de Janeiro
-3301850;AP de Rio de Janeiro/RJ
+3301850;Rio de Janeiro
 3301876;Demais Municípios do Rio de Janeiro
-3301900;AP de Rio de Janeiro/RJ
-3302007;AP de Rio de Janeiro/RJ
+3301900;Rio de Janeiro
+3302007;Rio de Janeiro
 3302056;Demais Municípios do Rio de Janeiro
 3302106;Demais Municípios do Rio de Janeiro
 3302205;Demais Municípios do Rio de Janeiro
 3302254;Demais Municípios do Rio de Janeiro
-3302270;AP de Rio de Janeiro/RJ
+3302270;Rio de Janeiro
 3302304;Demais Municípios do Rio de Janeiro
 3302403;Demais Municípios do Rio de Janeiro
 3302452;Demais Municípios do Rio de Janeiro
-3302502;AP de Rio de Janeiro/RJ
-3302601;AP de Rio de Janeiro/RJ
-3302700;AP de Rio de Janeiro/RJ
+3302502;Rio de Janeiro
+3302601;Rio de Janeiro
+3302700;Rio de Janeiro
 3302809;Demais Municípios do Rio de Janeiro
-3302858;AP de Rio de Janeiro/RJ
+3302858;Rio de Janeiro
 3302908;Demais Municípios do Rio de Janeiro
 3303005;Demais Municípios do Rio de Janeiro
 3303104;Demais Municípios do Rio de Janeiro
-3303203;AP de Rio de Janeiro/RJ
-3303302;AP de Rio de Janeiro/RJ
+3303203;Rio de Janeiro
+3303302;Rio de Janeiro
 3303401;Demais Municípios do Rio de Janeiro
-3303500;AP de Rio de Janeiro/RJ
-3303609;AP de Rio de Janeiro/RJ
+3303500;Rio de Janeiro
+3303609;Rio de Janeiro
 3303708;Demais Municípios do Rio de Janeiro
 3303807;Demais Municípios do Rio de Janeiro
 3303856;Demais Municípios do Rio de Janeiro
@@ -3234,31 +3234,31 @@
 3304102;Demais Municípios do Rio de Janeiro
 3304110;Demais Municípios do Rio de Janeiro
 3304128;Demais Municípios do Rio de Janeiro
-3304144;AP de Rio de Janeiro/RJ
+3304144;Rio de Janeiro
 3304151;Demais Municípios do Rio de Janeiro
 3304201;Demais Municípios do Rio de Janeiro
 3304300;Demais Municípios do Rio de Janeiro
 3304409;Demais Municípios do Rio de Janeiro
 3304508;Demais Municípios do Rio de Janeiro
 3304524;Demais Municípios do Rio de Janeiro
-3304557;AP de Rio de Janeiro/RJ
+3304557;Rio de Janeiro
 3304607;Demais Municípios do Rio de Janeiro
 3304706;Demais Municípios do Rio de Janeiro
 3304755;Demais Municípios do Rio de Janeiro
 3304805;Demais Municípios do Rio de Janeiro
-3304904;AP de Rio de Janeiro/RJ
+3304904;Rio de Janeiro
 3305000;Demais Municípios do Rio de Janeiro
-3305109;AP de Rio de Janeiro/RJ
+3305109;Rio de Janeiro
 3305133;Demais Municípios do Rio de Janeiro
 3305158;Demais Municípios do Rio de Janeiro
 3305208;Demais Municípios do Rio de Janeiro
 3305307;Demais Municípios do Rio de Janeiro
 3305406;Demais Municípios do Rio de Janeiro
-3305505;AP de Rio de Janeiro/RJ
-3305554;AP de Rio de Janeiro/RJ
+3305505;Rio de Janeiro
+3305554;Rio de Janeiro
 3305604;Demais Municípios do Rio de Janeiro
 3305703;Demais Municípios do Rio de Janeiro
-3305752;AP de Rio de Janeiro/RJ
+3305752;Rio de Janeiro
 3305802;Demais Municípios do Rio de Janeiro
 3305901;Demais Municípios do Rio de Janeiro
 3306008;Demais Municípios do Rio de Janeiro
@@ -3310,7 +3310,7 @@
 3503604;Demais Municípios de São Paulo
 3503703;Demais Municípios de São Paulo
 3503802;Demais Municípios de São Paulo
-3503901;AP de São Paulo/SP
+3503901;São Paulo
 3503950;Demais Municípios de São Paulo
 3504008;Demais Municípios de São Paulo
 3504107;Demais Municípios de São Paulo
@@ -3330,7 +3330,7 @@
 3505401;Demais Municípios de São Paulo
 3505500;Demais Municípios de São Paulo
 3505609;Demais Municípios de São Paulo
-3505708;AP de São Paulo/SP
+3505708;São Paulo
 3505807;Demais Municípios de São Paulo
 3505906;Demais Municípios de São Paulo
 3506003;Demais Municípios de São Paulo
@@ -3340,7 +3340,7 @@
 3506359;Demais Municípios de São Paulo
 3506409;Demais Municípios de São Paulo
 3506508;Demais Municípios de São Paulo
-3506607;AP de São Paulo/SP
+3506607;São Paulo
 3506706;Demais Municípios de São Paulo
 3506805;Demais Municípios de São Paulo
 3506904;Demais Municípios de São Paulo
@@ -3367,14 +3367,14 @@
 3508702;Demais Municípios de São Paulo
 3508801;Demais Municípios de São Paulo
 3508900;Demais Municípios de São Paulo
-3509007;AP de São Paulo/SP
+3509007;São Paulo
 3509106;Demais Municípios de São Paulo
-3509205;AP de São Paulo/SP
+3509205;São Paulo
 3509254;Demais Municípios de São Paulo
 3509304;Demais Municípios de São Paulo
 3509403;Demais Municípios de São Paulo
 3509452;Demais Municípios de São Paulo
-3509502;AP de Campinas/SP
+3509502;Campinas
 3509601;Demais Municípios de São Paulo
 3509700;Demais Municípios de São Paulo
 3509809;Demais Municípios de São Paulo
@@ -3387,7 +3387,7 @@
 3510302;Demais Municípios de São Paulo
 3510401;Demais Municípios de São Paulo
 3510500;Demais Municípios de São Paulo
-3510609;AP de São Paulo/SP
+3510609;São Paulo
 3510708;Demais Municípios de São Paulo
 3510807;Demais Municípios de São Paulo
 3510906;Demais Municípios de São Paulo
@@ -3408,9 +3408,9 @@
 3512506;Demais Municípios de São Paulo
 3512605;Demais Municípios de São Paulo
 3512704;Demais Municípios de São Paulo
-3512803;AP de Campinas/SP
+3512803;Campinas
 3512902;Demais Municípios de São Paulo
-3513009;AP de São Paulo/SP
+3513009;São Paulo
 3513108;Demais Municípios de São Paulo
 3513207;Demais Municípios de São Paulo
 3513306;Demais Municípios de São Paulo
@@ -3418,7 +3418,7 @@
 3513504;Demais Municípios de São Paulo
 3513603;Demais Municípios de São Paulo
 3513702;Demais Municípios de São Paulo
-3513801;AP de São Paulo/SP
+3513801;São Paulo
 3513850;Demais Municípios de São Paulo
 3513900;Demais Municípios de São Paulo
 3514007;Demais Municípios de São Paulo
@@ -3433,8 +3433,8 @@
 3514908;Demais Municípios de São Paulo
 3514924;Demais Municípios de São Paulo
 3514957;Demais Municípios de São Paulo
-3515004;AP de São Paulo/SP
-3515103;AP de São Paulo/SP
+3515004;São Paulo
+3515103;São Paulo
 3515129;Demais Municípios de São Paulo
 3515152;Demais Municípios de São Paulo
 3515186;Demais Municípios de São Paulo
@@ -3446,14 +3446,14 @@
 3515509;Demais Municípios de São Paulo
 3515608;Demais Municípios de São Paulo
 3515657;Demais Municípios de São Paulo
-3515707;AP de São Paulo/SP
+3515707;São Paulo
 3515806;Demais Municípios de São Paulo
 3515905;Demais Municípios de São Paulo
 3516002;Demais Municípios de São Paulo
 3516101;Demais Municípios de São Paulo
 3516200;Demais Municípios de São Paulo
-3516309;AP de São Paulo/SP
-3516408;AP de São Paulo/SP
+3516309;São Paulo
+3516408;São Paulo
 3516507;Demais Municípios de São Paulo
 3516606;Demais Municípios de São Paulo
 3516705;Demais Municípios de São Paulo
@@ -3478,12 +3478,12 @@
 3518503;Demais Municípios de São Paulo
 3518602;Demais Municípios de São Paulo
 3518701;Demais Municípios de São Paulo
-3518800;AP de São Paulo/SP
+3518800;São Paulo
 3518859;Demais Municípios de São Paulo
 3518909;Demais Municípios de São Paulo
 3519006;Demais Municípios de São Paulo
 3519055;Demais Municípios de São Paulo
-3519071;AP de Campinas/SP
+3519071;Campinas
 3519105;Demais Municípios de São Paulo
 3519204;Demais Municípios de São Paulo
 3519253;Demais Municípios de São Paulo
@@ -3520,17 +3520,17 @@
 3522000;Demais Municípios de São Paulo
 3522109;Demais Municípios de São Paulo
 3522158;Demais Municípios de São Paulo
-3522208;AP de São Paulo/SP
+3522208;São Paulo
 3522307;Demais Municípios de São Paulo
 3522406;Demais Municípios de São Paulo
-3522505;AP de São Paulo/SP
+3522505;São Paulo
 3522604;Demais Municípios de São Paulo
 3522653;Demais Municípios de São Paulo
 3522703;Demais Municípios de São Paulo
 3522802;Demais Municípios de São Paulo
 3522901;Demais Municípios de São Paulo
 3523008;Demais Municípios de São Paulo
-3523107;AP de São Paulo/SP
+3523107;São Paulo
 3523206;Demais Municípios de São Paulo
 3523305;Demais Municípios de São Paulo
 3523404;Demais Municípios de São Paulo
@@ -3549,7 +3549,7 @@
 3524709;Demais Municípios de São Paulo
 3524808;Demais Municípios de São Paulo
 3524907;Demais Municípios de São Paulo
-3525003;AP de São Paulo/SP
+3525003;São Paulo
 3525102;Demais Municípios de São Paulo
 3525201;Demais Municípios de São Paulo
 3525300;Demais Municípios de São Paulo
@@ -3586,7 +3586,7 @@
 3528205;Demais Municípios de São Paulo
 3528304;Demais Municípios de São Paulo
 3528403;Demais Municípios de São Paulo
-3528502;AP de São Paulo/SP
+3528502;São Paulo
 3528601;Demais Municípios de São Paulo
 3528700;Demais Municípios de São Paulo
 3528809;Demais Municípios de São Paulo
@@ -3596,7 +3596,7 @@
 3529104;Demais Municípios de São Paulo
 3529203;Demais Municípios de São Paulo
 3529302;Demais Municípios de São Paulo
-3529401;AP de São Paulo/SP
+3529401;São Paulo
 3529500;Demais Municípios de São Paulo
 3529609;Demais Municípios de São Paulo
 3529658;Demais Municípios de São Paulo
@@ -3609,7 +3609,7 @@
 3530300;Demais Municípios de São Paulo
 3530409;Demais Municípios de São Paulo
 3530508;Demais Municípios de São Paulo
-3530607;AP de São Paulo/SP
+3530607;São Paulo
 3530706;Demais Municípios de São Paulo
 3530805;Demais Municípios de São Paulo
 3530904;Demais Municípios de São Paulo
@@ -3621,7 +3621,7 @@
 3531506;Demais Municípios de São Paulo
 3531605;Demais Municípios de São Paulo
 3531704;Demais Municípios de São Paulo
-3531803;AP de Campinas/SP
+3531803;Campinas
 3531902;Demais Municípios de São Paulo
 3532009;Demais Municípios de São Paulo
 3532058;Demais Municípios de São Paulo
@@ -3653,7 +3653,7 @@
 3534104;Demais Municípios de São Paulo
 3534203;Demais Municípios de São Paulo
 3534302;Demais Municípios de São Paulo
-3534401;AP de São Paulo/SP
+3534401;São Paulo
 3534500;Demais Municípios de São Paulo
 3534609;Demais Municípios de São Paulo
 3534708;Demais Municípios de São Paulo
@@ -3676,7 +3676,7 @@
 3536257;Demais Municípios de São Paulo
 3536307;Demais Municípios de São Paulo
 3536406;Demais Municípios de São Paulo
-3536505;AP de Campinas/SP
+3536505;Campinas
 3536570;Demais Municípios de São Paulo
 3536604;Demais Municípios de São Paulo
 3536703;Demais Municípios de São Paulo
@@ -3703,14 +3703,14 @@
 3538808;Demais Municípios de São Paulo
 3538907;Demais Municípios de São Paulo
 3539004;Demais Municípios de São Paulo
-3539103;AP de São Paulo/SP
+3539103;São Paulo
 3539202;Demais Municípios de São Paulo
 3539301;Demais Municípios de São Paulo
 3539400;Demais Municípios de São Paulo
 3539509;Demais Municípios de São Paulo
 3539608;Demais Municípios de São Paulo
 3539707;Demais Municípios de São Paulo
-3539806;AP de São Paulo/SP
+3539806;São Paulo
 3539905;Demais Municípios de São Paulo
 3540002;Demais Municípios de São Paulo
 3540101;Demais Municípios de São Paulo
@@ -3752,7 +3752,7 @@
 3543204;Demais Municípios de São Paulo
 3543238;Demais Municípios de São Paulo
 3543253;Demais Municípios de São Paulo
-3543303;AP de São Paulo/SP
+3543303;São Paulo
 3543402;Demais Municípios de São Paulo
 3543501;Demais Municípios de São Paulo
 3543600;Demais Municípios de São Paulo
@@ -3760,7 +3760,7 @@
 3543808;Demais Municípios de São Paulo
 3543907;Demais Municípios de São Paulo
 3544004;Demais Municípios de São Paulo
-3544103;AP de São Paulo/SP
+3544103;São Paulo
 3544202;Demais Municípios de São Paulo
 3544251;Demais Municípios de São Paulo
 3544301;Demais Municípios de São Paulo
@@ -3770,7 +3770,7 @@
 3544707;Demais Municípios de São Paulo
 3544806;Demais Municípios de São Paulo
 3544905;Demais Municípios de São Paulo
-3545001;AP de São Paulo/SP
+3545001;São Paulo
 3545100;Demais Municípios de São Paulo
 3545159;Demais Municípios de São Paulo
 3545209;Demais Municípios de São Paulo
@@ -3789,18 +3789,18 @@
 3546504;Demais Municípios de São Paulo
 3546603;Demais Municípios de São Paulo
 3546702;Demais Municípios de São Paulo
-3546801;AP de São Paulo/SP
+3546801;São Paulo
 3546900;Demais Municípios de São Paulo
 3547007;Demais Municípios de São Paulo
 3547106;Demais Municípios de São Paulo
 3547205;Demais Municípios de São Paulo
-3547304;AP de São Paulo/SP
+3547304;São Paulo
 3547403;Demais Municípios de São Paulo
 3547502;Demais Municípios de São Paulo
 3547601;Demais Municípios de São Paulo
 3547650;Demais Municípios de São Paulo
 3547700;Demais Municípios de São Paulo
-3547809;AP de São Paulo/SP
+3547809;São Paulo
 3547908;Demais Municípios de São Paulo
 3548005;Demais Municípios de São Paulo
 3548054;Demais Municípios de São Paulo
@@ -3810,8 +3810,8 @@
 3548401;Demais Municípios de São Paulo
 3548500;Demais Municípios de São Paulo
 3548609;Demais Municípios de São Paulo
-3548708;AP de São Paulo/SP
-3548807;AP de São Paulo/SP
+3548708;São Paulo
+3548807;São Paulo
 3548906;Demais Municípios de São Paulo
 3549003;Demais Municípios de São Paulo
 3549102;Demais Municípios de São Paulo
@@ -3824,11 +3824,11 @@
 3549706;Demais Municípios de São Paulo
 3549805;Demais Municípios de São Paulo
 3549904;Demais Municípios de São Paulo
-3549953;AP de São Paulo/SP
+3549953;São Paulo
 3550001;Demais Municípios de São Paulo
 3550100;Demais Municípios de São Paulo
 3550209;Demais Municípios de São Paulo
-3550308;AP de São Paulo/SP
+3550308;São Paulo
 3550407;Demais Municípios de São Paulo
 3550506;Demais Municípios de São Paulo
 3550605;Demais Municípios de São Paulo
@@ -3849,12 +3849,12 @@
 3552106;Demais Municípios de São Paulo
 3552205;Demais Municípios de São Paulo
 3552304;Demais Municípios de São Paulo
-3552403;AP de Campinas/SP
-3552502;AP de São Paulo/SP
+3552403;Campinas
+3552502;São Paulo
 3552551;Demais Municípios de São Paulo
 3552601;Demais Municípios de São Paulo
 3552700;Demais Municípios de São Paulo
-3552809;AP de São Paulo/SP
+3552809;São Paulo
 3552908;Demais Municípios de São Paulo
 3553005;Demais Municípios de São Paulo
 3553104;Demais Municípios de São Paulo
@@ -3895,14 +3895,14 @@
 3555901;Demais Municípios de São Paulo
 3556008;Demais Municípios de São Paulo
 3556107;Demais Municípios de São Paulo
-3556206;AP de Campinas/SP
+3556206;Campinas
 3556305;Demais Municípios de São Paulo
 3556354;Demais Municípios de São Paulo
 3556404;Demais Municípios de São Paulo
-3556453;AP de São Paulo/SP
+3556453;São Paulo
 3556503;Demais Municípios de São Paulo
 3556602;Demais Municípios de São Paulo
-3556701;AP de Campinas/SP
+3556701;Campinas
 3556800;Demais Municípios de São Paulo
 3556909;Demais Municípios de São Paulo
 3556958;Demais Municípios de São Paulo
@@ -3914,7 +3914,7 @@
 4100103;Demais Municípios do Paraná
 4100202;Demais Municípios do Paraná
 4100301;Demais Municípios do Paraná
-4100400;AP de Curitiba/PR
+4100400;Curitiba
 4100459;Demais Municípios do Paraná
 4100509;Demais Municípios do Paraná
 4100608;Demais Municípios do Paraná
@@ -3932,13 +3932,13 @@
 4101606;Demais Municípios do Paraná
 4101655;Demais Municípios do Paraná
 4101705;Demais Municípios do Paraná
-4101804;AP de Curitiba/PR
+4101804;Curitiba
 4101853;Demais Municípios do Paraná
 4101903;Demais Municípios do Paraná
 4102000;Demais Municípios do Paraná
 4102109;Demais Municípios do Paraná
 4102208;Demais Municípios do Paraná
-4102307;AP de Curitiba/PR
+4102307;Curitiba
 4102406;Demais Municípios do Paraná
 4102505;Demais Municípios do Paraná
 4102604;Demais Municípios do Paraná
@@ -3950,7 +3950,7 @@
 4103024;Demais Municípios do Paraná
 4103040;Demais Municípios do Paraná
 4103057;Demais Municípios do Paraná
-4103107;AP de Curitiba/PR
+4103107;Curitiba
 4103156;Demais Municípios do Paraná
 4103206;Demais Municípios do Paraná
 4103222;Demais Municípios do Paraná
@@ -3966,11 +3966,11 @@
 4103800;Demais Municípios do Paraná
 4103909;Demais Municípios do Paraná
 4103958;Demais Municípios do Paraná
-4104006;AP de Curitiba/PR
+4104006;Curitiba
 4104055;Demais Municípios do Paraná
 4104105;Demais Municípios do Paraná
-4104204;AP de Curitiba/PR
-4104253;AP de Curitiba/PR
+4104204;Curitiba
+4104253;Curitiba
 4104303;Demais Municípios do Paraná
 4104402;Demais Municípios do Paraná
 4104428;Demais Municípios do Paraná
@@ -3989,11 +3989,11 @@
 4105508;Demais Municípios do Paraná
 4105607;Demais Municípios do Paraná
 4105706;Demais Municípios do Paraná
-4105805;AP de Curitiba/PR
+4105805;Curitiba
 4105904;Demais Municípios do Paraná
 4106001;Demais Municípios do Paraná
 4106100;Demais Municípios do Paraná
-4106209;AP de Curitiba/PR
+4106209;Curitiba
 4106308;Demais Municípios do Paraná
 4106407;Demais Municípios do Paraná
 4106456;Demais Municípios do Paraná
@@ -4004,7 +4004,7 @@
 4106704;Demais Municípios do Paraná
 4106803;Demais Municípios do Paraná
 4106852;Demais Municípios do Paraná
-4106902;AP de Curitiba/PR
+4106902;Curitiba
 4107009;Demais Municípios do Paraná
 4107108;Demais Municípios do Paraná
 4107124;Demais Municípios do Paraná
@@ -4019,7 +4019,7 @@
 4107546;Demais Municípios do Paraná
 4107553;Demais Municípios do Paraná
 4107603;Demais Municípios do Paraná
-4107652;AP de Curitiba/PR
+4107652;Curitiba
 4107702;Demais Municípios do Paraná
 4107736;Demais Municípios do Paraná
 4107751;Demais Municípios do Paraná
@@ -4070,7 +4070,7 @@
 4111001;Demais Municípios do Paraná
 4111100;Demais Municípios do Paraná
 4111209;Demais Municípios do Paraná
-4111258;AP de Curitiba/PR
+4111258;Curitiba
 4111308;Demais Municípios do Paraná
 4111407;Demais Municípios do Paraná
 4111506;Demais Municípios do Paraná
@@ -4109,7 +4109,7 @@
 4114005;Demais Municípios do Paraná
 4114104;Demais Municípios do Paraná
 4114203;Demais Municípios do Paraná
-4114302;AP de Curitiba/PR
+4114302;Curitiba
 4114351;Demais Municípios do Paraná
 4114401;Demais Municípios do Paraná
 4114500;Demais Municípios do Paraná
@@ -4175,12 +4175,12 @@
 4118907;Demais Municípios do Paraná
 4119004;Demais Municípios do Paraná
 4119103;Demais Municípios do Paraná
-4119152;AP de Curitiba/PR
+4119152;Curitiba
 4119202;Demais Municípios do Paraná
 4119251;Demais Municípios do Paraná
 4119301;Demais Municípios do Paraná
 4119400;Demais Municípios do Paraná
-4119509;AP de Curitiba/PR
+4119509;Curitiba
 4119608;Demais Municípios do Paraná
 4119657;Demais Municípios do Paraná
 4119707;Demais Municípios do Paraná
@@ -4199,7 +4199,7 @@
 4120606;Demais Municípios do Paraná
 4120655;Demais Municípios do Paraná
 4120705;Demais Municípios do Paraná
-4120804;AP de Curitiba/PR
+4120804;Curitiba
 4120853;Demais Municípios do Paraná
 4120903;Demais Municípios do Paraná
 4121000;Demais Municípios do Paraná
@@ -4219,7 +4219,7 @@
 4122107;Demais Municípios do Paraná
 4122156;Demais Municípios do Paraná
 4122172;Demais Municípios do Paraná
-4122206;AP de Curitiba/PR
+4122206;Curitiba
 4122305;Demais Municípios do Paraná
 4122404;Demais Municípios do Paraná
 4122503;Demais Municípios do Paraná
@@ -4260,7 +4260,7 @@
 4125357;Demais Municípios do Paraná
 4125407;Demais Municípios do Paraná
 4125456;Demais Municípios do Paraná
-4125506;AP de Curitiba/PR
+4125506;Curitiba
 4125555;Demais Municípios do Paraná
 4125605;Demais Municípios do Paraná
 4125704;Demais Municípios do Paraná
@@ -4317,14 +4317,14 @@
 4200408;Demais Municípios de Santa Catarina
 4200507;Demais Municípios de Santa Catarina
 4200556;Demais Municípios de Santa Catarina
-4200606;AP de Florianópolis/SC
+4200606;Florianópolis
 4200705;Demais Municípios de Santa Catarina
 4200754;Demais Municípios de Santa Catarina
 4200804;Demais Municípios de Santa Catarina
 4200903;Demais Municípios de Santa Catarina
 4201000;Demais Municípios de Santa Catarina
 4201109;Demais Municípios de Santa Catarina
-4201208;AP de Florianópolis/SC
+4201208;Florianópolis
 4201257;Demais Municípios de Santa Catarina
 4201273;Demais Municípios de Santa Catarina
 4201307;Demais Municípios de Santa Catarina
@@ -4345,7 +4345,7 @@
 4202131;Demais Municípios de Santa Catarina
 4202156;Demais Municípios de Santa Catarina
 4202206;Demais Municípios de Santa Catarina
-4202305;AP de Florianópolis/SC
+4202305;Florianópolis
 4202404;Demais Municípios de Santa Catarina
 4202438;Demais Municípios de Santa Catarina
 4202453;Demais Municípios de Santa Catarina
@@ -4397,7 +4397,7 @@
 4205209;Demais Municípios de Santa Catarina
 4205308;Demais Municípios de Santa Catarina
 4205357;Demais Municípios de Santa Catarina
-4205407;AP de Florianópolis/SC
+4205407;Florianópolis
 4205431;Demais Municípios de Santa Catarina
 4205456;Demais Municípios de Santa Catarina
 4205506;Demais Municípios de Santa Catarina
@@ -4406,7 +4406,7 @@
 4205704;Demais Municípios de Santa Catarina
 4205803;Demais Municípios de Santa Catarina
 4205902;Demais Municípios de Santa Catarina
-4206009;AP de Florianópolis/SC
+4206009;Florianópolis
 4206108;Demais Municípios de Santa Catarina
 4206207;Demais Municípios de Santa Catarina
 4206306;Demais Municípios de Santa Catarina
@@ -4490,7 +4490,7 @@
 4211850;Demais Municípios de Santa Catarina
 4211876;Demais Municípios de Santa Catarina
 4211892;Demais Municípios de Santa Catarina
-4211900;AP de Florianópolis/SC
+4211900;Florianópolis
 4212007;Demais Municípios de Santa Catarina
 4212056;Demais Municípios de Santa Catarina
 4212106;Demais Municípios de Santa Catarina
@@ -4498,7 +4498,7 @@
 4212239;Demais Municípios de Santa Catarina
 4212254;Demais Municípios de Santa Catarina
 4212270;Demais Municípios de Santa Catarina
-4212304;AP de Florianópolis/SC
+4212304;Florianópolis
 4212403;Demais Municípios de Santa Catarina
 4212502;Demais Municípios de Santa Catarina
 4212601;Demais Municípios de Santa Catarina
@@ -4545,7 +4545,7 @@
 4215679;Demais Municípios de Santa Catarina
 4215687;Demais Municípios de Santa Catarina
 4215695;Demais Municípios de Santa Catarina
-4215703;AP de Florianópolis/SC
+4215703;Florianópolis
 4215752;Demais Municípios de Santa Catarina
 4215802;Demais Municípios de Santa Catarina
 4215901;Demais Municípios de Santa Catarina
@@ -4558,7 +4558,7 @@
 4216354;Demais Municípios de Santa Catarina
 4216404;Demais Municípios de Santa Catarina
 4216503;Demais Municípios de Santa Catarina
-4216602;AP de Florianópolis/SC
+4216602;Florianópolis
 4216701;Demais Municípios de Santa Catarina
 4216800;Demais Municípios de Santa Catarina
 4216909;Demais Municípios de Santa Catarina
@@ -4566,7 +4566,7 @@
 4217105;Demais Municípios de Santa Catarina
 4217154;Demais Municípios de Santa Catarina
 4217204;Demais Municípios de Santa Catarina
-4217253;AP de Florianópolis/SC
+4217253;Florianópolis
 4217303;Demais Municípios de Santa Catarina
 4217402;Demais Municípios de Santa Catarina
 4217501;Demais Municípios de Santa Catarina
@@ -4616,14 +4616,14 @@
 4300505;Demais Municípios do Rio Grande do Sul
 4300554;Demais Municípios do Rio Grande do Sul
 4300570;Demais Municípios do Rio Grande do Sul
-4300604;AP de Porto Alegre/RS
+4300604;Porto Alegre
 4300638;Demais Municípios do Rio Grande do Sul
 4300646;Demais Municípios do Rio Grande do Sul
 4300661;Demais Municípios do Rio Grande do Sul
 4300703;Demais Municípios do Rio Grande do Sul
 4300802;Demais Municípios do Rio Grande do Sul
 4300851;Demais Municípios do Rio Grande do Sul
-4300877;AP de Porto Alegre/RS
+4300877;Porto Alegre
 4300901;Demais Municípios do Rio Grande do Sul
 4301008;Demais Municípios do Rio Grande do Sul
 4301057;Demais Municípios do Rio Grande do Sul
@@ -4666,7 +4666,7 @@
 4302808;Demais Municípios do Rio Grande do Sul
 4302907;Demais Municípios do Rio Grande do Sul
 4303004;Demais Municípios do Rio Grande do Sul
-4303103;AP de Porto Alegre/RS
+4303103;Porto Alegre
 4303202;Demais Municípios do Rio Grande do Sul
 4303301;Demais Municípios do Rio Grande do Sul
 4303400;Demais Municípios do Rio Grande do Sul
@@ -4676,7 +4676,7 @@
 4303673;Demais Municípios do Rio Grande do Sul
 4303707;Demais Municípios do Rio Grande do Sul
 4303806;Demais Municípios do Rio Grande do Sul
-4303905;AP de Porto Alegre/RS
+4303905;Porto Alegre
 4304002;Demais Municípios do Rio Grande do Sul
 4304101;Demais Municípios do Rio Grande do Sul
 4304200;Demais Municípios do Rio Grande do Sul
@@ -4684,14 +4684,14 @@
 4304358;Demais Municípios do Rio Grande do Sul
 4304408;Demais Municípios do Rio Grande do Sul
 4304507;Demais Municípios do Rio Grande do Sul
-4304606;AP de Porto Alegre/RS
+4304606;Porto Alegre
 4304614;Demais Municípios do Rio Grande do Sul
 4304622;Demais Municípios do Rio Grande do Sul
 4304630;Demais Municípios do Rio Grande do Sul
 4304655;Demais Municípios do Rio Grande do Sul
 4304663;Demais Municípios do Rio Grande do Sul
 4304671;Demais Municípios do Rio Grande do Sul
-4304689;AP de Porto Alegre/RS
+4304689;Porto Alegre
 4304697;Demais Municípios do Rio Grande do Sul
 4304705;Demais Municípios do Rio Grande do Sul
 4304713;Demais Municípios do Rio Grande do Sul
@@ -4736,7 +4736,7 @@
 4306320;Demais Municípios do Rio Grande do Sul
 4306353;Demais Municípios do Rio Grande do Sul
 4306379;Demais Municípios do Rio Grande do Sul
-4306403;AP de Porto Alegre/RS
+4306403;Porto Alegre
 4306429;Demais Municípios do Rio Grande do Sul
 4306452;Demais Municípios do Rio Grande do Sul
 4306502;Demais Municípios do Rio Grande do Sul
@@ -4745,7 +4745,7 @@
 4306700;Demais Municípios do Rio Grande do Sul
 4306734;Demais Municípios do Rio Grande do Sul
 4306759;Demais Municípios do Rio Grande do Sul
-4306767;AP de Porto Alegre/RS
+4306767;Porto Alegre
 4306809;Demais Municípios do Rio Grande do Sul
 4306908;Demais Municípios do Rio Grande do Sul
 4306924;Demais Municípios do Rio Grande do Sul
@@ -4761,8 +4761,8 @@
 4307450;Demais Municípios do Rio Grande do Sul
 4307500;Demais Municípios do Rio Grande do Sul
 4307559;Demais Municípios do Rio Grande do Sul
-4307609;AP de Porto Alegre/RS
-4307708;AP de Porto Alegre/RS
+4307609;Porto Alegre
+4307708;Porto Alegre
 4307807;Demais Municípios do Rio Grande do Sul
 4307815;Demais Municípios do Rio Grande do Sul
 4307831;Demais Municípios do Rio Grande do Sul
@@ -4786,13 +4786,13 @@
 4308854;Demais Municípios do Rio Grande do Sul
 4308904;Demais Municípios do Rio Grande do Sul
 4309001;Demais Municípios do Rio Grande do Sul
-4309050;AP de Porto Alegre/RS
+4309050;Porto Alegre
 4309100;Demais Municípios do Rio Grande do Sul
 4309126;Demais Municípios do Rio Grande do Sul
 4309159;Demais Municípios do Rio Grande do Sul
-4309209;AP de Porto Alegre/RS
+4309209;Porto Alegre
 4309258;Demais Municípios do Rio Grande do Sul
-4309308;AP de Porto Alegre/RS
+4309308;Porto Alegre
 4309407;Demais Municípios do Rio Grande do Sul
 4309506;Demais Municípios do Rio Grande do Sul
 4309555;Demais Municípios do Rio Grande do Sul
@@ -4822,7 +4822,7 @@
 4310652;Demais Municípios do Rio Grande do Sul
 4310702;Demais Municípios do Rio Grande do Sul
 4310751;Demais Municípios do Rio Grande do Sul
-4310801;AP de Porto Alegre/RS
+4310801;Porto Alegre
 4310850;Demais Municípios do Rio Grande do Sul
 4310876;Demais Municípios do Rio Grande do Sul
 4310900;Demais Municípios do Rio Grande do Sul
@@ -4840,7 +4840,7 @@
 4311429;Demais Municípios do Rio Grande do Sul
 4311502;Demais Municípios do Rio Grande do Sul
 4311601;Demais Municípios do Rio Grande do Sul
-4311627;AP de Porto Alegre/RS
+4311627;Porto Alegre
 4311643;Demais Municípios do Rio Grande do Sul
 4311700;Demais Municípios do Rio Grande do Sul
 4311718;Demais Municípios do Rio Grande do Sul
@@ -4867,7 +4867,7 @@
 4312427;Demais Municípios do Rio Grande do Sul
 4312443;Demais Municípios do Rio Grande do Sul
 4312450;Demais Municípios do Rio Grande do Sul
-4312476;AP de Porto Alegre/RS
+4312476;Porto Alegre
 4312500;Demais Municípios do Rio Grande do Sul
 4312609;Demais Municípios do Rio Grande do Sul
 4312617;Demais Municípios do Rio Grande do Sul
@@ -4882,16 +4882,16 @@
 4313003;Demais Municípios do Rio Grande do Sul
 4313011;Demais Municípios do Rio Grande do Sul
 4313037;Demais Municípios do Rio Grande do Sul
-4313060;AP de Porto Alegre/RS
+4313060;Porto Alegre
 4313086;Demais Municípios do Rio Grande do Sul
 4313102;Demais Municípios do Rio Grande do Sul
 4313201;Demais Municípios do Rio Grande do Sul
 4313300;Demais Municípios do Rio Grande do Sul
 4313334;Demais Municípios do Rio Grande do Sul
 4313359;Demais Municípios do Rio Grande do Sul
-4313375;AP de Porto Alegre/RS
+4313375;Porto Alegre
 4313391;Demais Municípios do Rio Grande do Sul
-4313409;AP de Porto Alegre/RS
+4313409;Porto Alegre
 4313425;Demais Municípios do Rio Grande do Sul
 4313441;Demais Municípios do Rio Grande do Sul
 4313466;Demais Municípios do Rio Grande do Sul
@@ -4916,7 +4916,7 @@
 4314209;Demais Municípios do Rio Grande do Sul
 4314308;Demais Municípios do Rio Grande do Sul
 4314407;Demais Municípios do Rio Grande do Sul
-4314423;AP de Porto Alegre/RS
+4314423;Porto Alegre
 4314456;Demais Municípios do Rio Grande do Sul
 4314464;Demais Municípios do Rio Grande do Sul
 4314472;Demais Municípios do Rio Grande do Sul
@@ -4929,14 +4929,14 @@
 4314753;Demais Municípios do Rio Grande do Sul
 4314779;Demais Municípios do Rio Grande do Sul
 4314787;Demais Municípios do Rio Grande do Sul
-4314803;AP de Porto Alegre/RS
-4314902;AP de Porto Alegre/RS
+4314803;Porto Alegre
+4314902;Porto Alegre
 4315008;Demais Municípios do Rio Grande do Sul
 4315057;Demais Municípios do Rio Grande do Sul
 4315073;Demais Municípios do Rio Grande do Sul
 4315107;Demais Municípios do Rio Grande do Sul
 4315131;Demais Municípios do Rio Grande do Sul
-4315149;AP de Porto Alegre/RS
+4315149;Porto Alegre
 4315156;Demais Municípios do Rio Grande do Sul
 4315172;Demais Municípios do Rio Grande do Sul
 4315206;Demais Municípios do Rio Grande do Sul
@@ -4997,13 +4997,13 @@
 4318440;Demais Municípios do Rio Grande do Sul
 4318457;Demais Municípios do Rio Grande do Sul
 4318465;Demais Municípios do Rio Grande do Sul
-4318481;AP de Porto Alegre/RS
+4318481;Porto Alegre
 4318499;Demais Municípios do Rio Grande do Sul
 4318507;Demais Municípios do Rio Grande do Sul
 4318606;Demais Municípios do Rio Grande do Sul
 4318614;Demais Municípios do Rio Grande do Sul
 4318622;Demais Municípios do Rio Grande do Sul
-4318705;AP de Porto Alegre/RS
+4318705;Porto Alegre
 4318804;Demais Municípios do Rio Grande do Sul
 4318903;Demais Municípios do Rio Grande do Sul
 4319000;Demais Municípios do Rio Grande do Sul
@@ -5016,15 +5016,15 @@
 4319364;Demais Municípios do Rio Grande do Sul
 4319372;Demais Municípios do Rio Grande do Sul
 4319406;Demais Municípios do Rio Grande do Sul
-4319505;AP de Porto Alegre/RS
+4319505;Porto Alegre
 4319604;Demais Municípios do Rio Grande do Sul
 4319703;Demais Municípios do Rio Grande do Sul
 4319711;Demais Municípios do Rio Grande do Sul
 4319737;Demais Municípios do Rio Grande do Sul
 4319752;Demais Municípios do Rio Grande do Sul
 4319802;Demais Municípios do Rio Grande do Sul
-4319901;AP de Porto Alegre/RS
-4320008;AP de Porto Alegre/RS
+4319901;Porto Alegre
+4320008;Porto Alegre
 4320107;Demais Municípios do Rio Grande do Sul
 4320206;Demais Municípios do Rio Grande do Sul
 4320230;Demais Municípios do Rio Grande do Sul
@@ -5089,7 +5089,7 @@
 4322806;Demais Municípios do Rio Grande do Sul
 4322855;Demais Municípios do Rio Grande do Sul
 4322905;Demais Municípios do Rio Grande do Sul
-4323002;AP de Porto Alegre/RS
+4323002;Porto Alegre
 4323101;Demais Municípios do Rio Grande do Sul
 4323200;Demais Municípios do Rio Grande do Sul
 4323309;Demais Municípios do Rio Grande do Sul
@@ -5322,13 +5322,13 @@
 5108857;Demais Municípios do Mato Grosso
 5108907;Demais Municípios do Mato Grosso
 5108956;Demais Municípios do Mato Grosso
-5200050;AP de Goiânia/GO
+5200050;Goiânia
 5200100;Demais Municípios de Goiás
 5200134;Demais Municípios de Goiás
 5200159;Demais Municípios de Goiás
 5200175;Demais Municípios de Goiás
 5200209;Demais Municípios de Goiás
-5200258;AP de Brasília/DF
+5200258;Brasília
 5200308;Demais Municípios de Goiás
 5200506;Demais Municípios de Goiás
 5200555;Demais Municípios de Goiás
@@ -5340,12 +5340,12 @@
 5201108;Demais Municípios de Goiás
 5201207;Demais Municípios de Goiás
 5201306;Demais Municípios de Goiás
-5201405;AP de Goiânia/GO
+5201405;Goiânia
 5201454;Demais Municípios de Goiás
 5201504;Demais Municípios de Goiás
 5201603;Demais Municípios de Goiás
 5201702;Demais Municípios de Goiás
-5201801;AP de Goiânia/GO
+5201801;Goiânia
 5202155;Demais Municípios de Goiás
 5202353;Demais Municípios de Goiás
 5202502;Demais Municípios de Goiás
@@ -5356,9 +5356,9 @@
 5203302;Demais Municípios de Goiás
 5203401;Demais Municípios de Goiás
 5203500;Demais Municípios de Goiás
-5203559;AP de Goiânia/GO
+5203559;Goiânia
 5203575;Demais Municípios de Goiás
-5203609;AP de Goiânia/GO
+5203609;Goiânia
 5203807;Demais Municípios de Goiás
 5203906;Demais Municípios de Goiás
 5203939;Demais Municípios de Goiás
@@ -5370,7 +5370,7 @@
 5204300;Demais Municípios de Goiás
 5204409;Demais Municípios de Goiás
 5204508;Demais Municípios de Goiás
-5204557;AP de Goiânia/GO
+5204557;Goiânia
 5204607;Demais Municípios de Goiás
 5204656;Demais Municípios de Goiás
 5204706;Demais Municípios de Goiás
@@ -5386,7 +5386,7 @@
 5205406;Demais Municípios de Goiás
 5205455;Demais Municípios de Goiás
 5205471;Demais Municípios de Goiás
-5205497;AP de Brasília/DF
+5205497;Brasília
 5205513;Demais Municípios de Goiás
 5205521;Demais Municípios de Goiás
 5205703;Demais Municípios de Goiás
@@ -5416,17 +5416,17 @@
 5208400;Demais Municípios de Goiás
 5208509;Demais Municípios de Goiás
 5208608;Demais Municípios de Goiás
-5208707;AP de Goiânia/GO
-5208806;AP de Goiânia/GO
+5208707;Goiânia
+5208806;Goiânia
 5208905;Demais Municípios de Goiás
 5209101;Demais Municípios de Goiás
 5209150;Demais Municípios de Goiás
-5209200;AP de Goiânia/GO
+5209200;Goiânia
 5209291;Demais Municípios de Goiás
 5209408;Demais Municípios de Goiás
 5209457;Demais Municípios de Goiás
 5209606;Demais Municípios de Goiás
-5209705;AP de Goiânia/GO
+5209705;Goiânia
 5209804;Demais Municípios de Goiás
 5209903;Demais Municípios de Goiás
 5209937;Demais Municípios de Goiás
@@ -5456,7 +5456,7 @@
 5212204;Demais Municípios de Goiás
 5212253;Demais Municípios de Goiás
 5212303;Demais Municípios de Goiás
-5212501;AP de Brasília/DF
+5212501;Brasília
 5212600;Demais Municípios de Goiás
 5212709;Demais Municípios de Goiás
 5212808;Demais Municípios de Goiás
@@ -5478,7 +5478,7 @@
 5214051;Demais Municípios de Goiás
 5214101;Demais Municípios de Goiás
 5214408;Demais Municípios de Goiás
-5214507;AP de Goiânia/GO
+5214507;Goiânia
 5214606;Demais Municípios de Goiás
 5214705;Demais Municípios de Goiás
 5214804;Demais Municípios de Goiás
@@ -5486,14 +5486,14 @@
 5214861;Demais Municípios de Goiás
 5214879;Demais Municípios de Goiás
 5214903;Demais Municípios de Goiás
-5215009;AP de Goiânia/GO
+5215009;Goiânia
 5215207;Demais Municípios de Goiás
-5215231;AP de Brasília/DF
+5215231;Brasília
 5215256;Demais Municípios de Goiás
 5215306;Demais Municípios de Goiás
 5215405;Demais Municípios de Goiás
 5215504;Demais Municípios de Goiás
-5215603;AP de Brasília/DF
+5215603;Brasília
 5215652;Demais Municípios de Goiás
 5215702;Demais Municípios de Goiás
 5215801;Demais Municípios de Goiás
@@ -5508,7 +5508,7 @@
 5217203;Demais Municípios de Goiás
 5217302;Demais Municípios de Goiás
 5217401;Demais Municípios de Goiás
-5217609;AP de Brasília/DF
+5217609;Brasília
 5217708;Demais Municípios de Goiás
 5218003;Demais Municípios de Goiás
 5218052;Demais Municípios de Goiás
@@ -5533,8 +5533,8 @@
 5219605;Demais Municípios de Goiás
 5219704;Demais Municípios de Goiás
 5219712;Demais Municípios de Goiás
-5219738;AP de Goiânia/GO
-5219753;AP de Brasília/DF
+5219738;Goiânia
+5219753;Brasília
 5219803;Demais Municípios de Goiás
 5219902;Demais Municípios de Goiás
 5220009;Demais Municípios de Goiás
@@ -5545,7 +5545,7 @@
 5220264;Demais Municípios de Goiás
 5220280;Demais Municípios de Goiás
 5220405;Demais Municípios de Goiás
-5220454;AP de Goiânia/GO
+5220454;Goiânia
 5220504;Demais Municípios de Goiás
 5220603;Demais Municípios de Goiás
 5220686;Demais Municípios de Goiás
@@ -5554,7 +5554,7 @@
 5221080;Demais Municípios de Goiás
 5221197;Demais Municípios de Goiás
 5221304;Demais Municípios de Goiás
-5221403;AP de Goiânia/GO
+5221403;Goiânia
 5221452;Demais Municípios de Goiás
 5221502;Demais Municípios de Goiás
 5221551;Demais Municípios de Goiás
@@ -5562,10 +5562,10 @@
 5221601;Demais Municípios de Goiás
 5221700;Demais Municípios de Goiás
 5221809;Demais Municípios de Goiás
-5221858;AP de Brasília/DF
+5221858;Brasília
 5221908;Demais Municípios de Goiás
 5222005;Demais Municípios de Goiás
 5222054;Demais Municípios de Goiás
 5222203;Demais Municípios de Goiás
 5222302;Demais Municípios de Goiás
-5300108;AP de Brasília/DF
+5300108;Brasília
