@@ -99,7 +99,7 @@ elif section == 'Population':
             fig_bar_pop
             )
     else:
-        json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/gdp/px_line_pop_70_18.json' 
+        json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_line_pop_70_18.json' 
         fig_line_pop = load_plotly_fig(json_line_pop)
         st.plotly_chart(fig_line_pop)
 
