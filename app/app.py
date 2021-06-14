@@ -57,21 +57,21 @@ def load_plotly_fig(url):
 
 
 metropolitan_areas = (
-    'Manaus'
+    'Belo Horizonte'
     , 'Belém'
-    , 'Fortaleza'
-    , 'Recife'
-    , 'Salvador'
-    , 'Belo Horizonte'
-    , 'Vitória'
-    , 'Rio de Janeiro'
-    , 'São Paulo'
+    , 'Brasília'
     , 'Campinas'
     , 'Curitiba'
     , 'Florianópolis'
-    , 'Porto Alegre'
+    , 'Fortaleza'
     , 'Goiânia'
-    , 'Brasília'
+    , 'Manaus'
+    , 'Porto Alegre'
+    , 'Recife'
+    , 'Rio de Janeiro'
+    , 'Salvador'
+    , 'São Paulo' 
+    , 'Vitória'
     )
 
 st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic Trajectories</h1>", unsafe_allow_html=True)
