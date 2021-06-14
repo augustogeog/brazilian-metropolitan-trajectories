@@ -86,7 +86,7 @@ if section == 'Territories':
 elif section == 'GDP':
     data_type =  st.radio(label = 'Data', options=['GDP', 'GDP per capita'])
     if data_type == 'GDP':    
-        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_dynamic.json'
+        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_02_18_dynamic.json'
         fig_bar_gdp = load_plotly_fig(json_bar_gdp)
         st.plotly_chart(fig_bar_gdp, use_container_width=True)
     else:
