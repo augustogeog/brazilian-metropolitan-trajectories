@@ -117,7 +117,7 @@ elif section == 'Income':
         st.plotly_chart(fig_bar_income,use_container_width=True, height=300, width=600)
 
     else:
-        json_line_income = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/income/fig_line_percapita_income.json'
+        json_line_income = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/income/fig_line_per_capita_income.json'
         fig_line_income = load_plotly_fig(json_line_income)
         st.plotly_chart(fig_line_income,use_container_width=True, height=300, width=700)
 
