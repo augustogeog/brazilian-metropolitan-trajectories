@@ -82,17 +82,17 @@ section =  st.sidebar.radio(label = 'Section', options=sections)
 if section == 'Territories':
     metro = st.selectbox(label='Metropolitan Area', options=metropolitan_areas)
     fig = load_metropolitan_areas(metro=metro)
-    st.plotly_chart(fig, height=600, width=1400)
+    st.plotly_chart(fig, height=600, width=1400, use_container_width=True)
 elif section == 'GDP':
     data_type =  st.radio(label = 'Data', options=['GDP', 'GDP per capita'])
     if data_type == 'GDP':    
         json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_dynamic.json'
         fig_bar_gdp = load_plotly_fig(json_bar_gdp)
-        st.plotly_chart(fig_bar_gdp)
+        st.plotly_chart(fig_bar_gdp, use_container_width=True)
     else:
         json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_02_18_dynamic.json'
         fig_bar_gdp = load_plotly_fig(json_bar_gdp)
-        st.plotly_chart(fig_bar_gdp)
+        st.plotly_chart(fig_bar_gdp, use_container_width=True)
 
 elif section == 'Population':
     plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
