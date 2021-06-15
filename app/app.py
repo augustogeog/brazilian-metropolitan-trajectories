@@ -76,7 +76,7 @@ metropolitan_areas = (
 
 st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic Trajectories</h1>", unsafe_allow_html=True)
 
-sections = ('Territories','Population','GDP','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel')
+sections = ('Territories','Population','GDP','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel', 'Social Inequality')
 section =  st.sidebar.radio(label = 'Section', options=sections)
 
 if section == 'Territories':
