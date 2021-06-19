@@ -116,7 +116,7 @@ elif section == 'Income':
 
 
 elif section == 'Population':
-    plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
+#    plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
 
     c1, c2 = st.beta_columns(2)
 
