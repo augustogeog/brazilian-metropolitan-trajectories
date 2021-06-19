@@ -1,6 +1,7 @@
 import streamlit as st
 import plotly.io as pio
 import urllib.request
+import plotly.express as px
 import json 
 import requests
 st.set_page_config(layout="wide") 
@@ -76,23 +77,43 @@ metropolitan_areas = (
 
 st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic Trajectories</h1>", unsafe_allow_html=True)
 
-sections = ('Territories','Population','GDP','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel', 'Social Inequality')
+#st.markdown('# teste')
+sections = ('Territories','Population','Income', 'Technology-Based Industries', 'Knowledge-Based Services', 'S&T Personnel', 'Social Inequality')
 section =  st.sidebar.radio(label = 'Section', options=sections)
 
 if section == 'Territories':
     metro = st.selectbox(label='Metropolitan Area', options=metropolitan_areas)
     fig = load_metropolitan_areas(metro=metro)
     st.plotly_chart(fig, height=600, width=1400, use_container_width=True)
-elif section == 'GDP':
-    data_type =  st.radio(label = 'Data', options=['GDP', 'GDP per capita'])
-    if data_type == 'GDP':    
-        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_02_18_dynamic.json'
-        fig_bar_gdp = load_plotly_fig(json_bar_gdp)
-        st.plotly_chart(fig_bar_gdp, use_container_width=True)
-    else:
-        json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_02_18_dynamic.json'
-        fig_bar_gdp = load_plotly_fig(json_bar_gdp)
-        st.plotly_chart(fig_bar_gdp, use_container_width=True)
+elif section == 'Income':
+#    with st.beta_expander(label="Options"):
+#        data_type =  st.radio(label = 'Data', options=['Original', 'Deflated'])
+
+    
+    json_line_income = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/income/fig_line_per_capita_income.json'
+    fig_line_income = load_plotly_fig(json_line_income)
+
+    json_line_income_corrected = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/income/fig_line_per_capita_income_corrected.json'
+    fig_line_income_corrected = load_plotly_fig(json_line_income_corrected)
+
+
+    json_bar_income = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/income/fig_dynamic_bar_percapita_income.json' 
+    fig_bar_income = load_plotly_fig(json_bar_income)
+
+    json_bar_gdp = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdp_02_18_dynamic.json'
+    fig_bar_gdp = load_plotly_fig(json_bar_gdp)
+    json_bar_gdp_percapita = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_02_18_dynamic.json'
+    fig_bar_gdp_percapita = load_plotly_fig(json_bar_gdp_percapita)    
+    c1, c2 = st.beta_columns(2)
+    c1.plotly_chart(fig_bar_income,use_container_width=True)
+    slot1 = c2.empty()
+    with c2.beta_expander(label="Options"):
+        data_type =  st.radio(label = 'Data', options=['Nominal', 'Real'])
+        if data_type == 'Original':
+            slot1.plotly_chart(fig_line_income, use_container_width=True)
+        else:
+            slot1.plotly_chart(fig_line_income_corrected, use_container_width=True)
+
 
 elif section == 'Population':
     plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
@@ -120,7 +141,6 @@ elif section == 'Income':
         json_line_income = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/income/fig_line_per_capita_income.json'
         fig_line_income = load_plotly_fig(json_line_income)
         st.plotly_chart(fig_line_income,use_container_width=True, height=300, width=700)
-
 
 
 else:
