@@ -75,7 +75,7 @@ metropolitan_areas = (
     , 'Vitória'
     )
 
-st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic Trajectories</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic App</h1>", unsafe_allow_html=True)
 
 
 
