@@ -105,14 +105,14 @@ elif section == 'Income':
     json_bar_gdp_percapita = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/economy/gdp/px_bar_gdppercapita_02_18_dynamic.json'
     fig_bar_gdp_percapita = load_plotly_fig(json_bar_gdp_percapita)    
     c1, c2 = st.beta_columns(2)
-    c1.plotly_chart(fig_bar_income,use_container_width=True)
+    c1.plotly_chart(fig_bar_income,use_container_width=True, height=900)
     slot1 = c2.empty()
     with c2.beta_expander(label="Options"):
         data_type =  st.radio(label = 'Data', options=['Nominal', 'Real'])
         if data_type == 'Nominal':
-            slot1.plotly_chart(fig_line_income, use_container_width=True)
+            slot1.plotly_chart(fig_line_income, use_container_width=True, height=900)
         else:
-            slot1.plotly_chart(fig_line_income_corrected, use_container_width=True)
+            slot1.plotly_chart(fig_line_income_corrected, use_container_width=True, height=900)
 
 
 elif section == 'Population':
