@@ -109,7 +109,7 @@ elif section == 'Income':
     slot1 = c2.empty()
     with c2.beta_expander(label="Options"):
         data_type =  st.radio(label = 'Data', options=['Nominal', 'Real'])
-        if data_type == 'Original':
+        if data_type == 'Nominal':
             slot1.plotly_chart(fig_line_income, use_container_width=True)
         else:
             slot1.plotly_chart(fig_line_income_corrected, use_container_width=True)
