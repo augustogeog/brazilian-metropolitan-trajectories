@@ -7,7 +7,7 @@ import requests
 import streamlit.components.v1 as components
 st.set_page_config(layout="wide") 
 
-#@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True)
 def load_metropolitan_areas(metro='Curitiba'):
     """
     Loads Plotly mapbox figures of selected metropolitan areas
@@ -42,7 +42,7 @@ def load_metropolitan_areas(metro='Curitiba'):
     
     return fig
 
-#@st.cache(suppress_st_warning=True)
+@st.cache(suppress_st_warning=True)
 def load_plotly_fig(url):
     """
     Loads Plotly Figures saved as json in a given url
