@@ -4,6 +4,7 @@ import urllib.request
 import plotly.express as px
 import json 
 import requests
+import streamlit.components.v1 as components
 st.set_page_config(layout="wide") 
 
 #@st.cache(suppress_st_warning=True)
@@ -75,7 +76,7 @@ metropolitan_areas = (
     , 'Vitória'
     )
 
-st.markdown(f"<h1 style='text-align: left; color: black;'>Metropolitan Economic App</h1>", unsafe_allow_html=True)
+st.markdown(f"<h1 style='text-align: right; color: black;'>Metropolitan Economic App</h1>", unsafe_allow_html=True)
 
 
 
@@ -87,7 +88,7 @@ if section == 'Introduction':
     '''
     ## Intro
     The **Metropolitan Economy App** is designed to disseminate information about the economic trajectories of the main Brazilian metropolitan areas. 
-    It is intended to provide to researchers of metropolitan areas data related to their: **economic paths**, **sectorial structure**, **regional roles**,
+    It is intended to provide to researchers data related to their: **economic paths**, **sectorial structure**, **regional roles**,
      **technological landscape**, **groups of development**, and **pace of adaptation to face the new global challenges**. 
      
      In the sidebar on the left, different sections can be found:
@@ -161,6 +162,16 @@ elif section == 'GDP':
 else:
     st.markdown(f"<h2 style='text-align: left; color: black;'>Under Development</h2>", unsafe_allow_html=True)
 
-import plotly.express as px
 
+#
+#components.html(
+#    """
+#        <footer>
+#            <p align="right">Author: Augusto dos Santos Pereria</p>
+#            <p align="right"><a href="mailto:augustogeog@gmail.com">augustogeog@gmail.com</a></p>
+#            <a href="https://www.w3schools.com">Visit W3Schools.com!</a>
+#            <p align="right" target="_top"><a href="https://www.linkedin.com/in/augusto-dos-santos-pereira-55678997/">LinkedIn</a></p>
+#        </footer>
+#    """
+#)
 
