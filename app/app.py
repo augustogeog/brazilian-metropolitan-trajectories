@@ -118,17 +118,15 @@ elif section == 'Income':
 elif section == 'Population':
     plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
 
-    if plot_type == 'Dynamic Bar':
-        json_bar_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_70_18_dynamic.json'
-        fig_bar_pop = load_plotly_fig(json_bar_pop)
-        st.plotly_chart(fig_bar_pop,use_container_width=True, height=300, width=700)
-    else:
-        json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/line_pop_70_18.json' 
-        fig_line_pop = load_plotly_fig(json_line_pop)
-        st.plotly_chart(fig_line_pop,use_container_width=True
-        , height=300
-        , width=600
-        )
+    c1, c2 = st.beta_columns(2)
+
+    json_bar_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/px_bar_pop_70_18_dynamic.json'
+    fig_bar_pop = load_plotly_fig(json_bar_pop)
+    c1.plotly_chart(fig_bar_pop,use_container_width=True)
+
+    json_line_pop = 'https://raw.githubusercontent.com/augustogeog/brazilian-metropolitan-trajectories/main/data/pop/line_pop_70_18.json' 
+    fig_line_pop = load_plotly_fig(json_line_pop)
+    c2.plotly_chart(fig_line_pop,use_container_width=True, height=1000)
 elif section == 'Income':
     plot_type =  st.radio(label = 'Plot Type', options=['Dynamic Bar', 'Line'])
 
